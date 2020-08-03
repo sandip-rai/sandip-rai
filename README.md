@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+<a href = "https://www.github.com/sandip-rai">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandip-rai&show_icons=true&count_private=true&theme=vue"  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip-rai&hide=php&layout=default&theme=vue" />
+</a>
+<!--
+![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandip-rai&show_icons=true&count_private=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandip-rai&hide=php&layout=default&theme=vue)]
+-->
 <!--
 **sandip-rai/sandip-rai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
