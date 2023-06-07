@@ -1,7 +1,7 @@
 ### Hi there 👋
 <a href = "https://www.github.com/sandip-rai">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandip-rai&show_icons=true&count_private=true&theme=vue"  />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip-rai&hide=php&layout=default&theme=vue" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandip-rai&show_icons=true&count_private=true&theme=vue&PAT_1"  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip-rai&hide=php&layout=default&theme=vue&PAT_1" />
 </a>
 <!--
 ![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandip-rai&show_icons=true&count_private=true&theme=vue)
