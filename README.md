@@ -42,6 +42,19 @@ Using picture feature to set dark/light theme
   <img src="https://streak-stats.demolab.com?user=sandip-rai&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
 </picture>
 
+[![Sandip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandip-rai&bg_color=0e351b&color=ffffff&line=80f494&point=b9b6b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+#### Contributions over the years
+
+<details>
+  <summary> :chart_with_upwards_trend: View Contributions Graph list </summary>
+
+  <img src="/contribution_graphs/sandip-rai-github-contributions-to-june19-2023.png">
+  
+</details>
+
 <!-- <a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1"  /> </a>  -->
 <!-- <a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api/top-langs?username=sandip-rai&hide=php&layout=compact&show_icons=true&theme=vue&PAT_1"  /> </a> | -->
 
