@@ -46,10 +46,8 @@ Using picture feature to set dark/light theme
 
 ---
 
-#### Contributions over the years
-
 <details>
-  <summary> :chart_with_upwards_trend: View Contributions Graph list </summary>
+  <summary> <h3> :chart_with_upwards_trend: View Contributions Graphs for past year </h3> </summary>
 
   <img src="/contribution_graphs/sandip-rai-github-contributions-to-june19-2023.png">
   
