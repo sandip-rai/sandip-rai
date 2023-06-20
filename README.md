@@ -1,10 +1,36 @@
 ### Hi there 👋
 
 <!--
-Putting the two stat cards in Tabular format of markdown
+Using picture feature to set dark/light theme
 -->
-<a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1"  /> </a> 
-<a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api/top-langs?username=sandip-rai&hide=php&layout=compact&show_icons=true&theme=vue&hide_border=true&PAT_1"  /> </a> |
+<!-- GitHub Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats-sandip-rai.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue-dark&hide_border=true&PAT_1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sandip-rai.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-sandip-rai.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1" />
+</picture>
+
+<!-- Most Used Languages -->
+<picture>
+  <source
+    srcset="https://github-readme-stats-sandip-rai.vercel.app/api/top-langs?username=sandip-rai&layout=compact&show_icons=true&theme=vue-dark&hide_border=true&langs_count=8&size_weight=0&count_weight=1&PAT_1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-sandip-rai.vercel.app/api/top-langs?username=sandip-rai&layout=compact&show_icons=true&theme=vue&hide_border=true&langs_count=8&size_weight=0&count_weight=1&PAT_1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-sandip-rai.vercel.app/api/top-langs?username=sandip-rai&layout=compact&show_icons=true&theme=vue-dark&hide_border=true&langs_count=8&size_weight=0&count_weight=1&PAT_1" />
+</picture>
+
+<!-- <a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1"  /> </a>  -->
+<!-- <a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api/top-langs?username=sandip-rai&hide=php&layout=compact&show_icons=true&theme=vue&PAT_1"  /> </a> | -->
 
 
 <!--
