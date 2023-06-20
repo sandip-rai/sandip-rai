@@ -3,8 +3,9 @@
 <!--
 Putting the two stat cards in Tabular format of markdown
 -->
-| <a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1"  /> </a> | <a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api/top-langs?username=sandip-rai&hide=php&layout=compact&show_icons=true&theme=vue&hide_border=true&PAT_1"  /> </a> |
-|------|------|
+<a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1"  /> </a> 
+<a href = "https://www.github.com/sandip-rai"> <img height="180em" src="https://github-readme-stats-sandip-rai.vercel.app/api/top-langs?username=sandip-rai&hide=php&layout=compact&show_icons=true&theme=vue&hide_border=true&PAT_1"  /> </a> |
+
 
 <!--
 ![Sandip's github stats](https://github-readme-stats.vercel.app/api?username=sandip-rai&show_icons=true&count_private=true&theme=vue)
