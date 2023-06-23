@@ -7,10 +7,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=2CBEFF&width=700&height=60&lines=I+am+Sandip.;A+Software+Engineer+building+Data+Solutions!"
+    srcset="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=000000&width=700&height=60&lines=I+am+Sandip.;A+Software+Engineer+building+Data+Solutions!"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=2CBEFF&width=700&height=60&lines=I+am+Sandip.;A+Software+Engineer+building+Data+Solutions!"
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=000000&width=700&height=60&lines=I+am+Sandip.;A+Software+Engineer+building+Data+Solutions!"
   />
 </picture>
   
