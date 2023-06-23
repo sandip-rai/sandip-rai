@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=16FD23&width=700&height=60&lines=I+am+Sandip.;A+Software+Engineer+building+Data+Solutions!)](https://git.io/typing-svg)
+
 <!--
 Using picture feature to set dark/light theme
 -->
