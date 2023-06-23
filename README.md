@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src="https://github.com/sandip-rai/sandip-rai/assets/35808377/e80c0435-8f2a-4bde-9b59-bee5076da735" width="40px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=16FD23&width=700&height=60&lines=I+am+Sandip.;A+Software+Engineer+building+Data+Solutions!)](https://git.io/typing-svg)
 
