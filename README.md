@@ -64,7 +64,7 @@ Using picture feature to set dark/light theme
 <details>
   <summary> <h3> :chart_with_upwards_trend: View Contributions Graphs for past years </h3> </summary>
 
-  <img src="/contribution_graphs/sandip-rai-github-contributions-to-june19-2023.png">
+  <img src="/contribution_graphs/sandip-rai-github-contributions-to-april-2024.png">
   
 </details>
 
