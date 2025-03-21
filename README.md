@@ -13,23 +13,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&pause=1000&color=000000&width=700&height=60&lines=I+am+Sandip.;A+Software+Engineer+building+Data+Solutions!"
   />
 </picture>
-  
 
-<!--
-Using picture feature to set dark/light theme
--->
 <!-- GitHub Stats -->
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue-dark&hide_border=true&PAT_1"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1" />
-</picture>
+[![Sandip's GitHub stats-Dark](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue-dark&hide_border=true&PAT_1)](https://github.com/sandip-rai#gh-dark-mode-only)
+[![Sandip's GitHub stats-Light](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1)](https://github.com/sandip-rai#gh-light-mode-only)
 
 <!-- GitHub Streak -->
 <picture>
