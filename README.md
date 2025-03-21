@@ -15,10 +15,13 @@
 </picture>
 
 <!-- GitHub Stats -->
-[![Sandip's GitHub stats-Dark](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue-dark&hide_border=true&PAT_1)](https://github.com/sandip-rai#gh-dark-mode-only)
-[![Sandip's GitHub stats-Light](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&hide_border=true&PAT_1)](https://github.com/sandip-rai#gh-light-mode-only)
+[![Sandip's GitHub stats-Dark](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue-dark&PAT_1)](https://github.com/sandip-rai#gh-dark-mode-only)
+[![Sandip's GitHub stats-Light](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&PAT_1)](https://github.com/sandip-rai#gh-light-mode-only)
 
-<!-- GitHub Streak -->
+[![Sandip's GitHub Streak stats-Dark](https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-dark2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=400)](https://github.com/sandip-rai#gh-dark-mode-only)
+[![Sandip's GitHub Streak stats-Light](https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=400)](https://github.com/sandip-rai#gh-light-mode-only)
+
+<!-- GitHub Streak
 <picture>
   <source
     srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
@@ -30,6 +33,7 @@
   />
   <img src="https://streak-stats.demolab.com?user=sandip-rai&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
 </picture>
+-->
 
 <!-- [![Sandip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandip-rai&bg_color=0e351b&color=ffffff&line=80f494&point=b9b6b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
