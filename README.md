@@ -15,8 +15,8 @@
 </picture>
 
 <!-- GitHub Stats -->
-[![Sandip's GitHub stats-Dark](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue-dark&PAT_1)](https://github.com/sandip-rai#gh-dark-mode-only)
-[![Sandip's GitHub stats-Light](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&theme=vue&PAT_1)](https://github.com/sandip-rai#gh-light-mode-only)
+[![Sandip's GitHub stats-Dark](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue-dark&PAT_1)](https://github.com/sandip-rai#gh-dark-mode-only)
+[![Sandip's GitHub stats-Light](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue&PAT_1)](https://github.com/sandip-rai#gh-light-mode-only)
 
 [![Sandip's GitHub Streak stats-Dark](https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-dark2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=400)](https://github.com/sandip-rai#gh-dark-mode-only)
 [![Sandip's GitHub Streak stats-Light](https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=400)](https://github.com/sandip-rai#gh-light-mode-only)
