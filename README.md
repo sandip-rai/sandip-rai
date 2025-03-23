@@ -15,11 +15,43 @@
 </picture>
 
 <!-- GitHub Stats -->
-[![Sandip's GitHub stats-Dark](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue-dark&PAT_1)](https://github.com/sandip-rai#gh-dark-mode-only)
-[![Sandip's GitHub stats-Light](https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue&PAT_1)](https://github.com/sandip-rai#gh-light-mode-only)
-
-[![Sandip's GitHub Streak stats-Dark](https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-dark2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=400)](https://github.com/sandip-rai#gh-dark-mode-only)
-[![Sandip's GitHub Streak stats-Light](https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=400)](https://github.com/sandip-rai#gh-light-mode-only)
+<div align="center">
+  <p float="left">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue-dark&PAT_1&card_width=495"
+        media="(prefers-color-scheme: dark)"
+        width="495"
+      />
+      <source
+        srcset="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue&PAT_1&card_width=495"
+        media="(prefers-color-scheme: light)"
+        width="495"
+      />
+      <img 
+        src="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue&PAT_1&card_width=495" 
+        width="495"
+      />
+    </picture>
+    &nbsp;&nbsp;&nbsp;
+    <picture>
+      <source 
+        srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-dark2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
+        media="(prefers-color-scheme: dark)"
+        width="495"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
+        media="(prefers-color-scheme: light)"
+        width="495"
+      />
+      <img 
+        src="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
+        width="495"
+      />
+    </picture>
+  </p>
+</div>
 
 <!-- GitHub Streak
 <picture>
