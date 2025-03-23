@@ -21,55 +21,39 @@
       <source 
         srcset="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue-dark&PAT_1&card_width=495"
         media="(prefers-color-scheme: dark)"
-        width="495"
+        width="400"
       />
       <source
         srcset="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue&PAT_1&card_width=495"
         media="(prefers-color-scheme: light)"
-        width="495"
+        width="400"
       />
       <img 
         src="https://github-readme-stats-git-master-sandiprais-projects.vercel.app/api?username=sandip-rai&show_icons=true&rank_icon=github&theme=vue&PAT_1&card_width=495" 
-        width="495"
+        width="400"
       />
     </picture>
     &nbsp;&nbsp;&nbsp;
+    <!-- GitHub Streak -->
     <picture>
       <source 
         srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-dark2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
         media="(prefers-color-scheme: dark)"
-        width="495"
+        width="400"
       />
       <source
         srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
         media="(prefers-color-scheme: light)"
-        width="495"
+        width="400"
       />
       <img 
         src="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
-        width="495"
+        width="400"
       />
     </picture>
   </p>
 </div>
 
-<!-- GitHub Streak
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=buefy-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=sandip-rai&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-</picture>
--->
-
-<!-- [![Sandip's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandip-rai&bg_color=0e351b&color=ffffff&line=80f494&point=b9b6b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
----
 
 <details>
   <summary> <h3> :chart_with_upwards_trend: View Contributions Graphs for past years </h3> </summary>
