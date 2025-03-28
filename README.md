@@ -34,23 +34,23 @@
       />
     </picture>
     &nbsp;&nbsp;&nbsp;
-    <!-- GitHub Streak -->
+<!--     <!-- GitHub Streak 
     <picture>
       <source 
-        srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-dark2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
+        srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-dark2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat"
         media="(prefers-color-scheme: dark)"
         width="400"
       />
       <source
-        srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
+        srcset="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat"
         media="(prefers-color-scheme: light)"
         width="400"
       />
       <img 
-        src="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&card_width=495"
+        src="https://streak-stats.demolab.com?user=sandip-rai&theme=whatsapp-light2&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat"
         width="400"
       />
-    </picture>
+    </picture> -->
   </p>
 </div>
 
