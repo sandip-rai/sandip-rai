@@ -58,7 +58,12 @@
 <details>
   <summary> <h3> :chart_with_upwards_trend: View Contributions Graphs for past years </h3> </summary>
 
+  <!--
   <img src="/contribution_graphs/sandip-rai-github-contributions-to-april-2024.png">
+  -->
+
+  ![image](https://github.com/user-attachments/assets/e2eede9e-5966-4256-b40e-a3be66bfb339)
+
   
 </details>
 
